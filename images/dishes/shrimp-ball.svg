@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FFD700"/>
+  <text x="200" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white">黄金虾球</text>
+  <circle cx="150" cy="100" r="18" fill="#FFA500"/>
+  <circle cx="200" cy="100" r="18" fill="#FFA500"/>
+  <circle cx="250" cy="100" r="18" fill="#FFA500"/>
+  <line x1="120" y1="100" x2="280" y2="100" stroke="#8B4513" stroke-width="3"/>
+  <circle cx="145" cy="95" r="2" fill="#FF6B35"/>
+  <circle cx="155" cy="95" r="2" fill="#FF6B35"/>
+  <circle cx="195" cy="95" r="2" fill="#FF6B35"/>
+  <circle cx="205" cy="95" r="2" fill="#FF6B35"/>
+  <circle cx="245" cy="95" r="2" fill="#FF6B35"/>
+  <circle cx="255" cy="95" r="2" fill="#FF6B35"/>
+</svg>
