@@ -1,0 +1,8 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F5DEB3"/>
+  <text x="200" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8B4513">脆嫩豆腐串</text>
+  <rect x="140" y="85" width="25" height="25" fill="#FFFAF0" rx="3"/>
+  <rect x="185" y="85" width="25" height="25" fill="#FFFAF0" rx="3"/>
+  <rect x="230" y="85" width="25" height="25" fill="#FFFAF0" rx="3"/>
+  <line x1="120" y1="97.5" x2="280" y2="97.5" stroke="#8B4513" stroke-width="3"/>
+</svg>

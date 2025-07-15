@@ -1,0 +1,8 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#8B4513"/>
+  <text x="200" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white">秘制牛肉串</text>
+  <rect x="140" y="80" width="30" height="30" fill="#A0522D" rx="5"/>
+  <rect x="185" y="80" width="30" height="30" fill="#A0522D" rx="5"/>
+  <rect x="230" y="80" width="30" height="30" fill="#A0522D" rx="5"/>
+  <line x1="120" y1="95" x2="280" y2="95" stroke="#654321" stroke-width="3"/>
+</svg>
